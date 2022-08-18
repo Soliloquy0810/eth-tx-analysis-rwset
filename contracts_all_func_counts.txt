@@ -1,0 +1,144 @@
+3-0x7a250d5630b4cf539739df2c5dacb4c659f2488d:
+Counter({'swapExactTokensForETHSupportingFeeOnTransferTokens': 2485, 'swapExactETHForTokens': 2367, 'swapETHForExactTokens': 1662, 'swapExactETHForTokensSupportingFeeOnTransferTokens': 938, 'swapExactTokensForTokens': 927, 'swapExactTokensForETH': 452, 'swapTokensForExactTokens': 346, 'swapExactTokensForTokensSupportingFeeOnTransferTokens': 331, 'addLiquidityETH': 167, 'removeLiquidityETHWithPermit': 103, 'removeLiquidityWithPermit': 84, 'removeLiquidityETHWithPermitSupportingFeeOnTransferTokens': 64, 'addLiquidity': 36, 'swapTokensForExactETH': 24, 'removeLiquidityETH': 8, 'removeLiquidityETHSupportingFeeOnTransferTokens': 4, 'removeLiquidity': 2})
+
+7-0x8d12a197cb00d4747a1fe03395095ce2a5cc6819:
+Counter({'withdrawToken': 2050, 'withdraw': 2029, 'trade': 2006, 'depositToken': 1442, 'cancelOrder': 1277, 'deposit': 1165, nan: 28, 'changeAdmin': 1, 'changeFeeRebate': 1, 'order': 1})
+
+18-0x06012c8cf97bead5deae237070f9587f8e7a266d:
+Counter({'transfer': 3611, 'approve': 2119, 'createSaleAuction': 1830, 'giveBirth': 1247, 'breedWithAuto': 972, 'createSiringAuction': 93, 'safeTransferFrom': 57, 'setAutoBirthFee': 52, 'transferFrom': 15, 'setApprovalForAll': 2, 'bidOnSiringAuction': 1, nan: 1})
+
+22-0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f:
+Counter({'swapExactTokensForTokens': 2893, 'swapExactTokensForETH': 2743, 'swapExactETHForTokens': 1769, 'swapETHForExactTokens': 674, 'swapTokensForExactTokens': 475, 'addLiquidityETH': 462, 'removeLiquidityETHWithPermit': 387, 'swapExactTokensForTokensSupportingFeeOnTransferTokens': 159, 'swapTokensForExactETH': 143, 'removeLiquidityWithPermit': 130, 'addLiquidity': 96, 'removeLiquidityETH': 30, 'swapExactTokensForETHSupportingFeeOnTransferTokens': 18, 'approve': 8, 'swapExactETHForTokensSupportingFeeOnTransferTokens': 8, 'removeLiquidity': 2, 'removeLiquidityETHWithPermitSupportingFeeOnTransferTokens': 2, nan: 1})
+
+52-0x2b591e99afe9f32eaa6214f7b7629768c40eeb39:
+Counter({'approve': 4437, 'stakeStart': 2512, 'transfer': 1743, 'stakeEnd': 1254, 'stakeGoodAccounting': 44, 'transferFrom': 6, 'xfLobbyExit': 2, nan: 2})
+
+54-0xdef1c0ded9bec7f1a1670819833240f027b25eff:
+Counter({nan: 4596, 'sellToUniswap': 2725, 'sellTokenForTokenToUniswapV3': 1302, 'sellEthForTokenToUniswapV3': 579, 'sellTokenForEthToUniswapV3': 524, 'cancelERC721Order': 175, 'cancelERC1155Order': 82, 'sellToLiquidityProvider': 15, 'sellToPancakeSwap': 2})
+
+83-0x03f7724180aa6b939894b5ca4314783b0b36b329:
+Counter({'swapExactETHForTokens': 2893, 'swapExactTokensForTokens': 2535, 'swapExactTokensForETH': 1687, 'swapETHForExactTokens': 817, 'swapTokensForExactTokens': 557, 'removeLiquidityETHWithPermit': 356, 'addLiquidityETH': 276, 'addLiquidity': 239, 'removeLiquidityWithPermit': 203, 'swapExactTokensForETHSupportingFeeOnTransferTokens': 142, 'swapTokensForExactETH': 125, 'swapExactTokensForTokensSupportingFeeOnTransferTokens': 88, 'removeLiquidityETHWithPermitSupportingFeeOnTransferTokens': 63, 'removeLiquidityETH': 12, 'removeLiquidity': 4, 'removeLiquidityETHSupportingFeeOnTransferTokens': 2, nan: 1})
+
+129-0xcda72070e455bb31c7690a170224ce43623d0b6f:
+Counter({'setBuyPrice': 3073, 'createReserveAuction': 2784, 'placeBidV2': 1003, 'updateReserveAuction': 936, 'cancelReserveAuction': 635, 'finalizeReserveAuction': 561, 'cancelBuyPrice': 434, 'buyV2': 237, 'makeOfferV2': 218, 'acceptOffer': 118, 'placeBid': 1})
+
+131-0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8:
+Counter({'withdrawToken': 2862, 'trade': 2850, 'cancelOrder': 1837, 'withdraw': 1342, 'deposit': 630, 'depositToken': 472, 'transferOwnership': 4, nan: 2, 'transfer': 1})
+
+210-0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9:
+Counter({'deposit': 3399, 'borrow': 3084, 'withdraw': 1951, 'repay': 1144, 'flashLoan': 339, 'setUserUseReserveAsCollateral': 52, 'swapBorrowRateMode': 23, 'liquidationCall': 5, 'depositETH': 3})
+
+222-0x39aa39c021dfbae8fac545936693ac917d5e7563:
+Counter({'repayBorrow': 3027, 'borrow': 2046, 'redeem': 1685, 'mint': 1587, 'redeemUnderlying': 993, 'approve': 470, 'transfer': 131, 'liquidateBorrow': 53, 'transferFrom': 2, 'repayBorrowBehalf': 2, 'balanceOfUnderlying': 1, '_setComptroller': 1, '_acceptAdmin': 1, nan: 1})
+
+252-0xb3775fb83f7d12a36e0475abdd1fca35c091efbe:
+Counter({'withdraw': 4263, 'reinvest': 2394, 'sell': 2285, 'buy': 658, 'exit': 263, 'transfer': 73, nan: 59, 'getMeOutOfHere': 2, 'calculateTokensReceived': 2, 'calculateEthereumReceived': 1})
+
+273-0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85:
+Counter({'setApprovalForAll': 4194, 'safeTransferFrom': 2532, 'reclaim': 1713, 'transferFrom': 1540, 'transfer': 15, 'approve': 5, nan: 1})
+
+288-0x60f80121c31a0d46b5279700f9df786054aa5ee5:
+Counter({'setApprovalForAll': 6336, 'burn': 1249, 'transferFrom': 1185, 'safeTransferFrom': 693, nan: 487, 'approve': 34, 'transfer': 16})
+
+299-0x57b116da40f21f91aec57329ecb763d29c1b2355:
+Counter({'buyBasicUnit': 4270, 'attackPlayer': 2934, 'fundGooResearch': 655, 'buyUpgrade': 557, 'snapshotDailyGooDepositFunding': 470, 'snapshotDailyGooResearchFunding': 469, 'claimResearchDividends': 257, 'withdrawEther': 188, 'sellUnit': 71, 'claimGooDepositDividends': 54, 'buyEthUnit': 27, 'transfer': 22, 'approve': 21, 'buyRareItem': 2, nan: 2, 'buyUnitRaffleTicket': 1})
+
+322-0xbeefbabeea323f07c59926295205d3b7a17e8638:
+Counter({'matchTokenOrderByAdmin_MYmNxE': 4158, 'nothingToSeeHere_04ikDO9': 2030, 'wipeBlockchain_EkJWPe': 1733, 'matchTokenOrderByAdmin_k44j': 875, 'Brrrrrrrrrrr_VXdAle': 707, nan: 497})
+
+329-0x5fdcca53617f4d2b9134b29090c87d01058e27e9:
+Counter({'withdraw': 4320, 'deposit': 3803, 'registerUser': 712, 'updateState': 633, 'depositNft': 294, 'withdrawAndMint': 174, 'registerToken': 27, 'withdrawNft': 20, nan: 17})
+
+341-0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5:
+Counter({'mint': 4585, 'redeem': 2418, 'redeemUnderlying': 1254, 'approve': 690, 'borrow': 543, 'transfer': 347, 'transferFrom': 94, 'liquidateBorrow': 46, nan: 7, 'balanceOfUnderlying': 4, '_acceptAdmin': 3, 'repayBorrow': 2, 'accrueInterest': 2, 'enterMarkets': 1, 'exchangeRateCurrent': 1, 'totalBorrowsCurrent': 1, 'seize': 1, '_setPendingAdmin': 1})
+
+367-0xfaafdc07907ff5120a76b34b731b278c38d6043c:
+Counter({'safeTransferFrom': 3549, nan: 2409, 'setApprovalForAll': 1891, 'safeBatchTransferFrom': 1293, 'setURI': 387, 'mintFungibles': 320, 'completeTrade': 50, 'transferFrom': 28, 'updateName': 27, 'setRoyalty': 18, 'updateContract': 18, 'assign': 5, 'setTransferFee': 3, 'setBridge': 1, 'acceptManager': 1})
+
+384-0xa62142888aba8370742be823c1782d17a0389da1:
+Counter({'buyXname': 5559, 'buyXaddr': 1965, 'withdraw': 1280, 'reLoadXid': 465, 'buyXid': 364, 'reLoadXname': 204, nan: 112, 'reLoadXaddr': 25, 'registerNameXname': 23, 'transfer': 2, 'activate': 1})
+
+427-0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb:
+Counter({'offerPunkForSale': 3811, 'enterBidForPunk': 1423, 'withdrawBidForPunk': 1104, 'withdraw': 992, 'transferPunk': 922, 'buyPunk': 819, 'punkNoLongerForSale': 634, 'offerPunkForSaleToAddress': 155, 'acceptBidForPunk': 112, 'transfer': 17, 'getPunk': 5, 'safeTransferFrom': 3, 'punkIndexToAddress': 1, 'setInitialOwner': 1, 'allInitialOwnersAssigned': 1})
+
+439-0x5d3a536e4d6dbd6114cc1ead35777bab948e3643:
+Counter({'mint': 2460, 'redeem': 2258, 'repayBorrow': 2180, 'borrow': 1172, 'redeemUnderlying': 851, 'approve': 725, 'transfer': 306, 'liquidateBorrow': 43, 'enterMarkets': 1, 'accrueInterest': 1, 'repayBorrowBehalf': 1, 'transferFrom': 1, 'balanceOfUnderlying': 1})
+
+503-0x1a94fce7ef36bc90959e206ba569a12afbc91ca1:
+Counter({'transfer': 3125, 'giveBirth': 2503, 'mateWithAuto': 1969, 'approve': 972, 'createAuctionSell': 414, 'createAuctionSeed': 368, 'bidOnAuctionSeed': 355, nan: 211, 'createGen0Auction': 76, 'transferFrom': 3, 'safeTransferFrom': 2, 'setAuctionAddresses': 1, 'setFactorySetting': 1})
+
+508-0x3b3ee1931dc30c1957379fac9aba94d1c48a5405:
+Counter({'burn': 3483, 'setApprovalForAll': 3412, 'safeTransferFrom': 1529, 'transferFrom': 1450, 'mintAndApproveMarket': 72, 'approve': 29, nan: 16, 'transfer': 4, 'mint': 3, 'mintWithCreatorPaymentFactoryAndApproveMarket': 2})
+
+518-0x7ee7ca6e75de79e618e88bdf80d0b1db136b22d0:
+Counter({'withdraw': 2861, 'deposit': 1669, 'createSwap': 1335, 'executeSwap': 1314, 'trade': 1106, 'depositToken': 750, 'cancel': 502, 'networkTrade': 415, nan: 25, 'cancelSwap': 21, 'adminWithdraw': 1, 'transferOwnership': 1})
+
+529-0x6f400810b62df8e13fded51be75ff5393eaa841f:
+Counter({'placeOrder': 2058, 'requestWithdraw': 1965, 'withdraw': 1921, 'deposit': 1485, 'cancelOrders': 1051, 'replaceOrders': 997, 'submitSolution': 429, 'placeValidFromOrders': 81, 'addToken': 8, nan: 4, 'approve': 1})
+
+557-0xbe9375c6a420d2eeb258962efb95551a5b722803:
+Counter({'transfer': 7180, 'lock': 927, 'approve': 812, 'transferFrom': 595, 'unlock': 401, 'transfers': 80, 'renounceOwnership': 5})
+
+560-0xe6cd4727a1058e6973e973986d0493f1e7975ef8:
+Counter({'receiveMultipleRandoms': 2471, 'mintWithOG': 1519, 'claimCrewReward': 1112, 'mergeMekaApes': 933, 'evolveBabyOogas': 897, 'levelUpRoboOogaWithOG': 799, 'unstake': 540, 'stake': 423, 'removeCrew': 299, 'claimReward': 248, 'createCrew': 240, 'burnOogaForUnstakeCredits': 166, 'changeCrew': 137, nan: 120, 'mintWithDMT': 67, 'levelUpRoboOoga': 21, 'withdrawERC20': 6, 'changeContract2': 1, 'upgradeToAndCall': 1})
+
+574-0x9a2d163ab40f88c625fd475e807bbc3556566f80:
+Counter({'trade': 2899, 'withdrawToken': 1653, 'withdraw': 1568, 'cancelOrder': 1566, 'deposit': 1493, 'depositToken': 806, nan: 12, 'order': 3})
+
+625-0x0c073c92e7684031cfc297b83ecc33619e864d18:
+Counter({'settleBet': 3736, 'placeBet': 3442, 'settleBetRoulette': 1400, 'placeBetRoulette': 1393, 'refundBet': 21, 'withdrawFunds': 2, 'approveNextOwner': 1, 'releaseLockedInBetAmount': 1, 'setNewRoulettePercents': 1, 'setComissionState': 1, 'setNewPercents': 1, 'setMaxProfit': 1})
+
+659-0xd97d09f3bd931a14382ac60f156c1285a56bb51b:
+Counter({'commitBlock': 4202, 'verifyBlocks': 4129, 'deposit': 604, 'withdraw': 594, 'distributeWithdrawals': 351, 'updateAccountAndDeposit': 108, 'withdrawProtocolFees': 7, 'drain': 3, 'withdrawExchangeStake': 1, 'registerToken': 1})
+
+663-0x26e75307fc0c021472feb8f727839531f112f317:
+Counter({'transfer': 4865, 'verifyParticipant': 1795, 'approve': 1106, 'requestWithdrawal': 806, 'withdraw': 762, 'updatePrice': 644, 'addLiquidity': 21, 'removeLiquidity': 1})
+
+674-0xa68dd8cb83097765263adad881af6eed479c4a33:
+Counter({'approve': 2607, 'unlock': 2248, 'transfer': 1449, 'claimWTF': 1257, 'transferAndCall': 1008, 'claim': 884, 'claimNFT': 425, 'claimRewards': 106, 'upgradeReflink': 12, nan: 4})
+
+691-0x3ee18b2214aff97000d974cf647e7c347e8fa585:
+Counter({'completeTransfer': 4648, 'transferTokens': 2606, 'wrapAndTransferETH': 1612, 'completeTransferAndUnwrapETH': 975, 'attestToken': 103, 'createWrapped': 49, nan: 6, 'completeTransferAndUnwrapETHWithPayload': 1})
+
+717-0x6ea53dfc58c5cbf68a799edd208cb3a905db5939:
+Counter({'signfordailyreward': 3727, 'getDailyReward': 3204, 'transfer': 1639, 'getyourcoinsbackafterthreemonths': 1205, 'transferFrom': 128, 'becameaminer': 42, 'sendtokenwithmemo': 28, 'approve': 26, nan: 1})
+
+731-0xf9b6541b14f586459acdc6aec15dc2e12b8db09f:
+Counter({'createContract': 2858, 'investmentContracts': 2410, 'sendRepayment': 2375, 'transferIntoMortgaged': 2356, nan: 1})
+
+791-0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1:
+Counter({'createGen0Auction': 2744, 'transfer': 2081, 'createSaleAuction': 1803, 'joinMatch': 1515, 'breedWithAuto': 467, 'giveBirth': 458, 'approve': 446, 'createPromoDragon': 346, 'createSiringAuction': 38, 'setApprovalForAll': 24, 'transferFrom': 20, nan: 17, 'safeTransferFrom': 15, 'bidOnSiringAuction': 13, 'setAutoBirthFee': 6, 'withdrawBalance': 3, 'withdrawAuctionBalances': 3, 'setDragonMatchAddress': 1})
+
+794-0xba3ed686cc32ffa8664628b1e96d8022e40543de:
+Counter({'makeOffer': 3377, 'emergencyWithdraw': 1737, 'withdraw': 1654, 'fillOffers': 1401, 'depositEther': 856, 'depositERC20': 494, 'cancel': 307, 'approveSpender': 147, 'emergencyCancel': 20, 'setState': 3, 'slowWithdraw': 1, 'announceWithdraw': 1, 'setCancelAnnounceDelay': 1, 'setWithdrawAnnounceDelay': 1})
+
+806-0x2a1530c4c41db0b0b2bb646cb5eb1a67b7158667:
+Counter({'ethToTokenSwapInput': 4701, 'tokenToEthSwapInput': 1529, 'ethToTokenTransferInput': 999, 'tokenToEthTransferInput': 812, 'tokenToTokenTransferInput': 644, 'ethToTokenTransferOutput': 393, 'approve': 149, 'tokenToTokenTransferOutput': 144, 'removeLiquidity': 128, 'tokenToEthSwapOutput': 125, 'tokenToTokenSwapInput': 101, 'tokenToEthTransferOutput': 90, 'ethToTokenSwapOutput': 64, 'tokenToTokenSwapOutput': 55, 'addLiquidity': 38, 'transfer': 17, nan: 9, 'setup': 1, 'transferFrom': 1})
+
+856-0xcc9a0b7c43dc2a5f023bb9b738e45b0ef6b06e04:
+Counter({'depositETH': 4994, 'withdrawETH': 2601, 'borrowETH': 1380, 'repayETH': 1022, 'approve': 1, 'decreaseAllowance': 1, nan: 1})
+
+860-0x8c9b261faef3b3c2e64ab5e58e04615f8c788099:
+Counter({'initiateCreateSale': 5462, 'giftAsset': 1403, 'setApprovalForAll': 1344, 'transferFrom': 881, 'batchCreateAsset': 699, 'safeTransferFrom': 96, 'batchSafeTransferFrom': 61, 'approve': 25, 'transfer': 10, nan: 8, 'batchApprove': 3, 'setGenerationSeasonController': 2, 'updateGenerationDict': 2, 'multiBatchTransferFrom': 1, 'setSecondaryManager': 1, 'setPrimaryManager': 1, 'setBanker': 1})
+
+890-0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756:
+Counter({'oboCreateDigitalMediaAndReleases': 2559, 'setApprovalForAll': 2241, 'transferFrom': 1892, 'safeTransferFrom': 1609, 'oboCreateDigitalMediaReleases': 1207, 'approve': 470, 'burn': 11, 'transfer': 8, nan: 2, 'transferOwnership': 1})
+
+908-0xf55041e37e12cd407ad00ce2910b8269b01263b9:
+Counter({'allocateFrom': 3564, 'closeAllocation': 3088, 'delegate': 1755, 'closeAndAllocate': 577, 'undelegate': 420, 'withdrawDelegated': 363, 'claimMany': 82, 'multicall': 47, 'claim': 31, 'setDelegationParameters': 20, nan: 18, 'stake': 16, 'setOperator': 7, 'withdraw': 5, 'setRewardsDestination': 3, 'unstake': 3, 'stakeTo': 1})
+
+928-0x448a5065aebb8e423f0896e6c5d525c040f59af3:
+Counter({'bite': 4763, 'give': 1042, 'exit': 770, 'draw': 758, 'join': 666, 'free': 545, 'lock': 520, 'wipe': 500, 'open': 396, 'safe': 20, 'tab': 4, 'shut': 4, 'rap': 3, 'rhi': 2, 'drip': 2, 'buyAndFree22457070633': 2, nan: 2, 'chi': 1})
+
+936-0x944644ea989ec64c2ab9ef341d383cef586a5777:
+Counter({'commitBlock': 3477, 'verifyBlocks': 3404, 'withdraw': 1474, 'distributeWithdrawals': 719, 'deposit': 413, 'updateAccountAndDeposit': 349, 'withdrawFromApprovedWithdrawal': 56, 'drain': 45, 'depositTo': 27, 'createOrUpdateAccount': 24, nan: 4, 'withdrawFromMerkleTree': 2, 'registerToken': 2, 'withdrawExchangeStake': 1, 'setAddressWhitelist': 1, 'setFees': 1, 'disableTokenDeposit': 1})
+
+962-0x97dec872013f6b5fb443861090ad931542878126:
+Counter({'ethToTokenSwapInput': 2225, 'tokenToEthSwapInput': 1663, 'tokenToTokenTransferInput': 1594, 'ethToTokenTransferInput': 952, 'tokenToEthTransferInput': 941, 'tokenToEthSwapOutput': 586, 'tokenToTokenTransferOutput': 504, 'tokenToTokenSwapOutput': 394, 'tokenToTokenSwapInput': 336, 'tokenToEthTransferOutput': 317, 'ethToTokenTransferOutput': 316, 'approve': 65, 'removeLiquidity': 44, 'ethToTokenSwapOutput': 34, 'addLiquidity': 25, 'transfer': 2, 'setup': 2})
+
+986-0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9:
+Counter({'repayBorrow': 2792, 'borrow': 2393, 'mint': 1665, 'redeem': 1659, 'redeemUnderlying': 851, 'transfer': 290, 'approve': 197, 'transferFrom': 112, 'liquidateBorrow': 36, nan: 4, 'accrueInterest': 1})
+
+987-0x4da27a545c0c5b758a6ba100e3a049001de870f5:
+Counter({'stake': 3907, 'claimRewards': 2148, 'cooldown': 2129, 'redeem': 1056, 'approve': 472, 'transfer': 225, 'delegateByType': 54, 'transferFrom': 4, nan: 4, 'delegate': 1})
+
