@@ -52,7 +52,7 @@ def get_transactions_by_address(address, number_transactions):
 
 addresses = get_contract_address()
 n = len(addresses)
-for i in range(8, n):
+for i in range(0, n):
     cur_address = addresses.get(i)
     cur_file_path = os.path.abspath(os.getcwd())+"\\transactions\\"+str(i+1)+"-"+cur_address+".csv"
     if os.path.isfile(cur_file_path):
