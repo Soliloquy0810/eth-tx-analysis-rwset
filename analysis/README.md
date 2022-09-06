@@ -19,15 +19,17 @@
 
 - `@branch_state_read_write`：在分支中读写状态变量
 
-- `@is_map`：是针对 map[address] 的读写，是对`@normal_read`和`@normal_write`的额外标注（不包含`@map_state_add`和`@map_state_sub`）。针对map的key是user address的情况。
+- `@is_map`：是对`@normal_read`和`@normal_write`的额外标注（不包含`@map_state_add`和`@map_state_sub`）。针对map的key是address的情况，即`map(address=>datatype)`。
 
-- `@call(functionName)`：调用名称为functionName的方法
+- `@call(functionName)`：调用名称为functionName的方法。
 
 - `@notConsider`：暂未考虑被标注部分的读写
 
+- `@duplacate_branch_hotspot`：既在分支中，同时又是hotspot。
+
 # 其他情况处理
 
-- 对于每个方法中重复的读写，只记为 1 次。对结构体的读写也只记为 1 次。
+- 对于每个方法中重复的读写，只记为 1 次。对结构体的读写也只记为 1 次（除特殊情况外，例如结构体实例中保存的是合约全局的状态）。
 
 - 未考虑跨合约调用的读写情况。
 
